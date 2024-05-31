@@ -1,0 +1,18 @@
+{
+  "name": "algoritms",
+  "version": "1.0.0",
+  "description": "this app for solution algo leason",
+  "main": "index.js",
+  "repository": "https://github.com/maBhaby/algoritms.git",
+  "author": "maBhaby <artem_chursin_37@mail.ru>",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsx ./src/IsPalindrome/index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+  }
+}
