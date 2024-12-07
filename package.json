@@ -7,7 +7,7 @@
   "author": "maBhaby <artem_chursin_37@mail.ru>",
   "license": "MIT",
   "scripts": {
-    "start": "tsx ./src/IsPalindrome/index.ts"
+    "start": "tsx ./src/main.ts"
   },
   "devDependencies": {
     "tsx": "^4.11.0",
