@@ -129,5 +129,12 @@ class Tree {
 
 // Пример использования
 const tree = new Tree();
-tree.buildTree([7, 3, 2, 1, 9, 5, 4, 6, 8]);
+tree.buildTree([7, 3, 2, 1, 9, 5, 4, 6, 8, 0]);
 console.log(tree.findWithOneChild());
+
+// if tree.is_balanced() {
+//     log('YES')
+//  }
+//   else{
+//   log('NO')  
+//  } 
